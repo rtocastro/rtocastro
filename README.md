@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**rtocastro/rtocastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**rtocastro/rtocastro** is a ✨ _special_ ✨ repository because its `README.md` 
 
 Here are some ideas to get you started:
 
